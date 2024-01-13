@@ -1,4 +1,4 @@
-# Recipe Generation with GPT and GPT-2 Medium and Evaluation Metrics
+# Recipe Generation with GPT and GPT-2 Medium
 
 This repository contains code and resources for generating recipes using both the GPT and GPT-2 Medium models and evaluating the generated recipes against reference recipes. It includes code for model training, evaluation, and calculating various evaluation metrics.
 
