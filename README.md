@@ -1,15 +1,17 @@
-# Recipe Generation with GPT and GPT-2 Medium
+# Automatic Recipe Generation
 
-This repository contains code and resources for generating recipes using both the GPT and GPT-2 Medium models and evaluating the generated recipes against reference recipes. It includes code for model training, evaluation, and calculating various evaluation metrics.
+This repository contains code and resources for generating recipes using GPT, GPT-2 Medium, Mistral-7B-v0.1, and TinyLlama-1.1B-Chat-v1.0 models. It includes code for model training, evaluation, and calculating various metrics.
 
 ## Dataset
-The dataset used for this project is sourced from the Recipe NLG Dataset, comprising a collection of recipes suitable for training language models.
+The dataset used for this project is sourced from the Recipe NLG Dataset, a collection of recipes suitable for training language models. You can find more information about the dataset [here](https://huggingface.co/datasets/recipe_nlg).
 
 ## Models
-Two models have been utilized for recipe generation:
+Four models have been utilized for recipe generation:
 
-- **GPT**: The GPT model from the Hugging Face Transformers library. You can access the GPT model via this [link](https://huggingface.co/gpt2).
-- **GPT-2 Medium**: An intermediate-sized variant of the GPT-2 model. The GPT-2 Medium model from the Hugging Face model hub is accessible through this [link](https://huggingface.co/gpt2-medium).
+- **GPT**: [link](https://huggingface.co/gpt2).
+- **GPT-2 Medium**: [link](https://huggingface.co/gpt2-medium).
+- **Mistral-7B-v0.1**: [link](https://huggingface.co/mistral-7B-v0.1).
+- **TinyLlama-1.1B-Chat-v1.0**: [link](https://huggingface.co/tinyllama-1.1B-chat-v1.0).
 
 ## Evaluation Metrics
 The quality and accuracy of the generated recipes were assessed using various evaluation metrics:
