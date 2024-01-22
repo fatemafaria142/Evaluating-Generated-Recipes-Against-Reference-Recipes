@@ -18,10 +18,6 @@ Seven models have been utilized for recipe generation:
 
 ## Evaluation Metrics
 The quality and accuracy of the generated recipes were assessed using various evaluation metrics:
-
-- Character Error Rate (CER)
-- Word Error Rate (WER)
-- Exact Match (EM)
 - BLEU Score
 - METEOR Score
 - ROUGE Score
