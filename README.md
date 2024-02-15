@@ -8,7 +8,7 @@ The dataset used for this project is sourced from the Recipe NLG Dataset, a coll
 ## Models
 Seven models have been utilized for recipe generation:
 
-- **GPT**: [link](https://huggingface.co/gpt2).
+- **GPT2**: [link](https://huggingface.co/gpt2).
 - **GPT-2 Medium**: [link](https://huggingface.co/gpt2-medium).
 - **Mistral-7B-v0.1**: [link](https://huggingface.co/mistral-7B-v0.1).
 - **TinyLlama-1.1B-Chat-v1.0**: [link](https://huggingface.co/tinyllama-1.1B-chat-v1.0).
