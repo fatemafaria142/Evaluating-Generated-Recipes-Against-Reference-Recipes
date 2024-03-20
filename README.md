@@ -18,8 +18,5 @@ Seven models have been utilized for recipe generation:
 - **Llama-2-7b-chat-hf**: [link](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf).
 
 ## Evaluation Metrics
-The quality and accuracy of the generated recipes were assessed using various evaluation metrics:
-- BLEU Score
-- METEOR Score
-- ROUGE Score
+The quality and accuracy of the generated recipes were assessed using evaluation metric:
 - BERT Score
